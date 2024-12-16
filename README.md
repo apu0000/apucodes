@@ -1,2 +1,3 @@
-# apucodes
-This is my git repo
+# apucode
+This is my first Git repository
+Author - Apurba
